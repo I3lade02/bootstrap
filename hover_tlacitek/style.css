@@ -1,0 +1,12 @@
+.btn-my-color-outline{
+    background: white;
+    border-color: #44abce;
+    color: #44abce;
+    width: 200px;
+}
+
+.btn-my-color-outline:hover {
+    background: #44abce;
+    color: white;
+    width: 200px;
+}
